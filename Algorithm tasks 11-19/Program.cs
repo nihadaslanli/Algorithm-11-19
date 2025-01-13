@@ -46,7 +46,27 @@
 //    reverse /= 100;
 //}
 #endregion
+#region task6
+//Console.Write("Doguldugunuz gun:");
 
+//int gun=int.Parse(Console.ReadLine());
+//Console.Write("Doguldugunuz ay:");
+//int ay = int.Parse(Console.ReadLine());
+//Console.Write("Doguldugunuz il:");
+//int il = int.Parse(Console.ReadLine());
+
+//int gun1 = 14;
+//int ay1 = 1;
+//int il1 = 2025;
+
+//if(ay1>ay) Console.WriteLine("Yas: "+(il1+il));
+//else if(ay1 == ay){
+//    if(gun1>gun) Console.WriteLine("Yas: "+(il1-il));
+//    else Console.WriteLine("Yas: "+(il1-il));
+
+//}
+//else Console.WriteLine("Yas: "+(il1-il));
+#endregion
 #region task8
 //Console.Write("n natural ededini daxil edin: ");
 //int n = Convert.ToInt32(Console.ReadLine());
