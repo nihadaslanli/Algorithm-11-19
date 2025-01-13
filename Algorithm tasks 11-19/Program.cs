@@ -14,6 +14,15 @@
 ////if (isPalindrom)
 //    Console.WriteLine("Palindromdur");
 #endregion
+#region task3
+//int san =int.Parse(Console.ReadLine());
+
+//int day = san / (24 * 60 * 60);
+//int hour = (san % (24 * 60 * 60)) / (60 * 60);
+//int minute = san % (60 * 60) / 60;
+//int second = san % 60;
+//Console.WriteLine($"{san}={day}:{hour}:{minute}:{second}");
+#endregion
 
 #region task8
 //Console.Write("n natural ededini daxil edin: ");
