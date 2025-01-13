@@ -1,10 +1,20 @@
-﻿//#region task
-//int num=int.Parse(Console.ReadLine());
-//for (int i = 0; i < num; i++)
-//{if()
+﻿#region task1,3
+//string s =Console.ReadLine();
+//bool isPalindrom = true;
+//for (int i = 0; i < s.Length; i++)
+//{
+//    if (s[i] != s[s.Length - 1 - i])
+//    {
+//        Console.WriteLine("Palindrom deyil");
+//          isPalindrom = false;
+//        break;
+//    }
 
 //}
-//#endregion
+////if (isPalindrom)
+//    Console.WriteLine("Palindromdur");
+#endregion
+
 #region task8
 //Console.Write("n natural ededini daxil edin: ");
 //int n = Convert.ToInt32(Console.ReadLine());
@@ -22,7 +32,7 @@
 #endregion
 #region task9
 //const int toplamAyak = 64;
-//const int qazAyak = 2;   
+//const int qazAyak = 2;
 //const int dovsanAyak = 4;
 
 //Console.WriteLine("Qazların ve dovşanların mümkün kombinasyonları:");
