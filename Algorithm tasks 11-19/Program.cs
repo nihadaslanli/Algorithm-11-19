@@ -5,6 +5,21 @@
 
 //}
 //#endregion
+#region task8
+//Console.Write("n natural ededini daxil edin: ");
+//int n = Convert.ToInt32(Console.ReadLine());
+
+//int beraberBolenlerinSayi = 0;
+
+//for (int m = 1; m <= n; m++)
+//{
+//     if (n % m == n / m)
+//    {
+//        beraberBolenlerinSayi++;
+//    }
+//   }
+//Console.WriteLine($"{n} ededinin bereber bölenlerinin sayı: {beraberBolenlerinSayi}");
+#endregion
 #region task9
 //const int toplamAyak = 64;
 //const int qazAyak = 2;   
