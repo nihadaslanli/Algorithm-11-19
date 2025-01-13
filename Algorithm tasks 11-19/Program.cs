@@ -32,6 +32,20 @@
 
 //double distance=Math.Sqrt(Math.Pow(x1-x2 , 2) + Math.Pow(y1 - y2,2)); 
 #endregion
+#region task5 
+//int number= int.Parse(Console.ReadLine());
+//int reverse = 0;
+//while (number > 0)
+//{
+//    reverse= reverse*100+number%100;
+//    number /= 100;
+//}
+//while (reverse > 0)
+//{
+//    Console.Write(reverse%100+" ");
+//    reverse /= 100;
+//}
+#endregion
 
 #region task8
 //Console.Write("n natural ededini daxil edin: ");
