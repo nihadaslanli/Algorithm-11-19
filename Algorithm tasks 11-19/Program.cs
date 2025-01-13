@@ -23,6 +23,15 @@
 //int second = san % 60;
 //Console.WriteLine($"{san}={day}:{hour}:{minute}:{second}");
 #endregion
+#region task4 
+//double x1, x2, y1, y2;
+//x1= double.Parse(Console.ReadLine());
+//x2= double.Parse(Console.ReadLine());
+//y1= double.Parse(Console.ReadLine());
+//y2= double.Parse(Console.ReadLine()); 
+
+//double distance=Math.Sqrt(Math.Pow(x1-x2 , 2) + Math.Pow(y1 - y2,2)); 
+#endregion
 
 #region task8
 //Console.Write("n natural ededini daxil edin: ");
