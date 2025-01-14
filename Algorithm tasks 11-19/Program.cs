@@ -1,4 +1,4 @@
-﻿#region task1,3
+﻿#region task1,2
 //string s =Console.ReadLine();
 //bool isPalindrom = true;
 //for (int i = 0; i < s.Length; i++)
